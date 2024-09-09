@@ -11,3 +11,7 @@
 7. Update pipeline
 8. Update the main.py
 
+
+
+
+Save the URI: 977099031888.dkr.ecr.eu-north-1.amazonaws.com/catdog
